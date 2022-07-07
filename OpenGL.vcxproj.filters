@@ -84,5 +84,16 @@
     <Image Include="mountain.png">
       <Filter>Resource Files\Textures</Filter>
     </Image>
+    <Image Include="wood.png">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="light.frag">
+      <Filter>Resource Files\Shaders</Filter>
+    </Text>
+    <Text Include="light.vert">
+      <Filter>Resource Files\Shaders</Filter>
+    </Text>
   </ItemGroup>
 </Project>

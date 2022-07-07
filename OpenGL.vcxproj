@@ -162,6 +162,11 @@
   <ItemGroup>
     <Image Include="F:\Downloads\Vietnamese__Civ6_.png" />
     <Image Include="mountain.png" />
+    <Image Include="wood.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="light.frag" />
+    <Text Include="light.vert" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
